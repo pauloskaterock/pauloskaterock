@@ -1,6 +1,8 @@
 ## Ph skate rock🍕🥓🍺
 -Ruby on Rails developer ❤🎃💎💎💎
+
 Quality Assurence Engineer 😈😈😈😈
+
 Consultant and Programmer Robotic Process Automation🤖 Uipath/Automation Anywhere⚡👾
 
  <div>
@@ -17,14 +19,14 @@ Consultant and Programmer Robotic Process Automation🤖 Uipath/Automation Anywh
   <img align="center" alt="PH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="PH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
   
   <div> 
 
   <a href = "mailto:phtynkers@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pauloengenharia5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "developer"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" target="_blank"></a>
-    <a href = "developer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+   
  
  
  
