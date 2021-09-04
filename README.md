@@ -1,16 +1,32 @@
-### Hi there 👋
+## Ph skate rock🍕🥓🍺
+-Ruby on Rails developer ❤🎃💎💎💎
+Quality Assurence Engineer 😈😈😈😈
+Consultant and Programmer Robotic Process Automation🤖 Uipath/Automation Anywhere⚡👾
 
-<!--
-**pauloskaterock/pauloskaterock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+  <a href="https://github.com/pauloskaterock">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloskaterock&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloskaterock&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+  ##🍕🍺
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="PH-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
+  <img align="center" alt="PH-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+  <img align="center" alt="PH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  <div> 
 
-Here are some ideas to get you started:
+  <a href = "mailto:phtynkers@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pauloengenharia5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "developer"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" target="_blank"></a>
+    <a href = "developer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+ 
+ 
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
