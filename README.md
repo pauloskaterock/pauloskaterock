@@ -1,6 +1,6 @@
 ## PH skate rock🍕🥓🍺
 
--Ruby on Rails developer ❤🎃💎💎💎
+Ruby on Rails developer ❤🎃💎💎💎
 
 Quality Assurence Engineer 😈😈😈😈
 
@@ -25,6 +25,7 @@ Consultant and Programmer Robotic Process Automation🤖 Uipath/Automation Anywh
     <img align="center" alt="PH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    <img align="center" alt="PH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain.svg">
 </div>
+ 
   
   <div> 
 
