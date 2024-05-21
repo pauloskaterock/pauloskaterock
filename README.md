@@ -1,14 +1,14 @@
 ## PH skate rock🍕🥓🍺
 
-Java Developer
+Python Software Developer
 
-Ruby on Rails developer ❤🎃💎💎💎
+Ruby on Rails Software developer ❤🎃💎💎💎
 
-Quality Assurence Engineer 😈😈😈😈
+Sdet/Quality Assurence Engineer 😈😈😈😈
 
 Control and Automation Engineer🧠🧠🧠
 
-Consultant and Programmer Robotic Process Automation🤖 Uipath/Automation Anywhere⚡👾
+Consultant and Programmer Robotic Process Automation🤖 Uipath/Automation Anywhere/Python⚡👾
 
  <div>
   <a href="https://github.com/pauloskaterock">
