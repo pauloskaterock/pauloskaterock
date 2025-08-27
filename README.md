@@ -1,10 +1,12 @@
-## PH skate rock🍕🥓🍺
+## pauloskaterock🍕🥓🍺
 
 Ruby on Rails Software Engineer ❤🎃💎💎💎
 
 React Software Developer 😈😈😈😈
 
 Golang Developer🧠🧠🧠
+
+Html-Css-Java-script Developer 🍕🍺
 
 
 
