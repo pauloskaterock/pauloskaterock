@@ -1,12 +1,7 @@
 ## pauloskaterock🍕🥓🍺
 
-Ruby on Rails Software Engineer ❤🎃💎💎💎
+ Software Engineer ❤🎃💎💎💎
 
-React Software Developer 😈😈😈😈
-
-Golang Developer🧠🧠🧠
-
-Html-Css-Java-script Developer 🍕🍺
 
 
 
